@@ -177,7 +177,7 @@ return [
     ],
 
     'locations' => [
-        'title' => 'Locations',
+        'title' => 'Restaurant',
     ],
 
     'contact' => [
